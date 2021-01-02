@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cora-l.github.io</id>
     <title>Cora</title>
-    <updated>2021-01-02T03:09:57.258Z</updated>
+    <updated>2021-01-02T03:10:29.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cora-l.github.io"/>
     <link rel="self" href="https://cora-l.github.io/atom.xml"/>
@@ -48,15 +48,6 @@ Bye 2020</p>
 </blockquote>
 <p>I think you should use an<br>
 <code>&lt;addr&gt;</code> element here instead.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shoe]]></title>
-        <id>https://cora-l.github.io/post/shoe/</id>
-        <link href="https://cora-l.github.io/post/shoe/">
-        </link>
-        <updated>2021-01-02T01:20:18.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cora-l.github.io/post-images/1609550427819.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
