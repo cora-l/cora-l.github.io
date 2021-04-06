@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cora-l.github.io</id>
     <title>Cora</title>
-    <updated>2021-01-02T03:28:49.088Z</updated>
+    <updated>2021-04-06T12:58:47.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cora-l.github.io"/>
     <link rel="self" href="https://cora-l.github.io/atom.xml"/>
@@ -11,13 +11,12 @@
     <icon>https://cora-l.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Cora</rights>
     <entry>
-        <title type="html"><![CDATA[DIY]]></title>
-        <id>https://cora-l.github.io/post/diy/</id>
-        <link href="https://cora-l.github.io/post/diy/">
+        <title type="html"><![CDATA[My travel map✈️]]></title>
+        <id>https://cora-l.github.io/post/my-travel-map/</id>
+        <link href="https://cora-l.github.io/post/my-travel-map/">
         </link>
-        <updated>2021-01-02T03:25:09.000Z</updated>
-        <content type="html"><![CDATA[<p>DIY images</p>
-]]></content>
+        <updated>2021-04-06T12:56:04.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="https://www.google.com/maps/d/embed?mid=1FPWG0rTVFLh1qbEDzZ-CibBqHgxMapMQ&hl=zh-TW" width="640" height="480"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[👟 shoe 3D presentation]]></title>
