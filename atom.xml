@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cora-lai.com</id>
     <title>Cora</title>
-    <updated>2022-05-15T18:05:29.046Z</updated>
+    <updated>2022-05-15T18:07:39.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cora-lai.com"/>
     <link rel="self" href="https://cora-lai.com/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2022, Cora</rights>
     <entry>
         <title type="html"><![CDATA[每周1 城市- Nottingham 1 日遊]]></title>
-        <id>https://cora-lai.com/post/mei-zhou-1-cheng-shi-nottingham-1-ri-you/</id>
-        <link href="https://cora-lai.com/post/mei-zhou-1-cheng-shi-nottingham-1-ri-you/">
+        <id>https://cora-lai.com/post/nottingham-daytrip/</id>
+        <link href="https://cora-lai.com/post/nottingham-daytrip/">
         </link>
         <updated>2022-05-15T12:08:02.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
